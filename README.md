@@ -1,2 +1,3 @@
-# mnsit-classification
-MNSIT CNN-based classification approach
+# MNSIT Convolutional Neural Network
+
+
